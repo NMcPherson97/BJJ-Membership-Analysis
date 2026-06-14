@@ -1,0 +1,601 @@
+Membership_Type,Current_Member,Hold_Status,Hold_Duration_Days,Age,Age_Group,Membership_Duration_Days,Monthly_Dues,Sign_Up_Date,Cancellation_Date
+Full Access,False,,,36,Adult,254,240,2024-11-20 00:00:00,2025-08-01 22:00:00
+Full Access,True,True,39.0,14,Adult,54,240,2026-04-19 22:00:00,
+Full Access,True,False,,5,Toddler,237,240,2025-10-18 22:00:00,
+Full Access,False,,,6,Child,445,240,2024-12-21 00:00:00,2026-03-11 22:00:00
+1x per week,True,True,34.0,48,Adult,674,160,2024-08-07 22:00:00,
+Full Access,False,,,6,Child,212,240,2024-11-12 00:00:00,2025-06-12 22:00:00
+Full Access,False,,,36,Adult,254,240,2024-11-20 00:00:00,2025-08-01 22:00:00
+Full Access,False,,,0,,60,240,2024-08-23 22:00:00,2024-10-22 22:00:00
+1x per week,True,False,,5,Toddler,180,160,2025-12-14 00:00:00,
+Full Access,False,,,3,Toddler,178,240,2025-07-16 22:00:00,2026-01-10 00:00:00
+Full Access,True,True,12.0,4,Toddler,289,240,2025-08-27 22:00:00,
+Full Access,True,False,,4,Toddler,217,240,2025-11-07 00:00:00,
+Full Access,False,,,9,Child,113,240,2024-08-16 22:00:00,2024-12-07 00:00:00
+Full Access,True,False,,4,Toddler,64,240,2026-04-09 22:00:00,
+Full Access,True,False,,4,Toddler,274,240,2025-09-11 22:00:00,
+1x per week,False,,,0,,280,160,2025-01-23 00:00:00,2025-10-30 22:00:00
+Full Access,False,,,9,Child,64,240,2024-08-30 22:00:00,2024-11-02 22:00:00
+1x per week,True,False,,5,Toddler,241,160,2025-10-14 22:00:00,
+Full Access,False,,,0,,340,240,2025-02-09 00:00:00,2026-01-15 00:00:00
+Full Access,False,,,38,Adult,330,240,2024-11-13 00:00:00,2025-10-09 22:00:00
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,False,,,10,Child,130,240,2024-10-14 22:00:00,2025-02-21 00:00:00
+Full Access,False,,,0,,444,240,2024-08-31 22:00:00,2025-11-18 00:00:00
+Full Access,True,False,,0,,242,240,2025-10-13 22:00:00,
+Full Access,False,,,7,Child,190,240,2024-11-24 00:00:00,2025-06-02 22:00:00
+1x per week,True,True,68.0,0,,471,160,2025-02-26 00:00:00,
+Full Access,True,True,39.0,14,Adult,54,240,2026-04-19 22:00:00,
+1x per week,True,False,,10,Child,514,160,2025-01-14 00:00:00,
+1x per week,False,,,9,Child,443,160,2024-08-20 22:00:00,2025-11-06 00:00:00
+Full Access,True,False,,0,,71,240,2026-04-02 22:00:00,
+Full Access,True,False,,4,Toddler,323,240,2025-07-24 22:00:00,
+Full Access,False,,,12,Child,113,240,2024-08-16 22:00:00,2024-12-07 00:00:00
+1x per week,False,,,9,Child,113,160,2024-08-16 22:00:00,2024-12-07 00:00:00
+Full Access,False,,,0,,225,240,2025-08-25 22:00:00,2026-04-07 22:00:00
+Full Access,False,,,6,Child,212,240,2024-11-12 00:00:00,2025-06-12 22:00:00
+1x per week,True,False,,6,Child,403,160,2025-05-05 22:00:00,
+1x per week,True,False,,4,Toddler,63,160,2026-04-10 22:00:00,
+Full Access,True,False,,0,,249,240,2025-10-06 22:00:00,
+1x per week,False,,,12,Child,426,160,2024-09-12 22:00:00,2025-11-12 00:00:00
+Full Access,False,,,0,,165,240,2025-01-06 00:00:00,2025-06-20 22:00:00
+Full Access,False,,,10,Child,161,240,2025-09-10 22:00:00,2026-02-18 00:00:00
+Full Access,False,,,8,Child,4,240,2026-01-09 00:00:00,2026-01-13 00:00:00
+Full Access,True,False,,5,Toddler,283,240,2025-09-02 22:00:00,
+1x per week,True,False,,10,Child,652,160,2024-08-29 22:00:00,
+Full Access,True,False,,4,Toddler,312,240,2025-08-04 22:00:00,
+Full Access,True,False,,44,Adult,650,240,2024-08-31 22:00:00,
+Full Access,True,False,,0,,559,240,2024-11-30 00:00:00,
+1x per week,False,,,30,Adult,211,160,2025-03-05 00:00:00,2025-10-02 22:00:00
+Full Access,True,False,,9,Child,521,240,2025-01-07 00:00:00,
+1x per week,True,False,,8,Child,140,160,2026-01-23 00:00:00,
+1x per week,False,,,10,Child,117,160,2024-08-27 22:00:00,2024-12-22 00:00:00
+1x per week,True,False,,6,Child,127,160,2026-02-05 00:00:00,
+Full Access,True,False,,6,Child,331,240,2025-07-16 22:00:00,
+Full Access,True,False,,7,Child,141,240,2026-01-22 00:00:00,
+Full Access,False,,,11,Child,144,240,2025-08-07 22:00:00,2025-12-29 00:00:00
+Full Access,True,False,,47,Adult,680,240,2024-08-01 22:00:00,
+Full Access,True,False,,11,Child,652,240,2024-08-29 22:00:00,
+Full Access,True,False,,8,Child,650,240,2024-08-31 22:00:00,
+1x per week,True,True,39.0,14,Adult,54,160,2026-04-19 22:00:00,
+1x per week,True,False,,5,Toddler,180,160,2025-12-14 00:00:00,
+Full Access,True,True,56.0,11,Child,58,240,2026-04-15 22:00:00,
+Full Access,True,False,,10,Child,514,240,2025-01-14 00:00:00,
+Full Access,False,,,8,Child,178,240,2025-08-12 22:00:00,2026-02-06 00:00:00
+Full Access,True,False,,0,,483,240,2025-02-14 00:00:00,
+Full Access,False,,,9,Child,552,240,2024-08-30 22:00:00,2026-03-05 00:00:00
+Full Access,False,,,36,Adult,96,240,2025-11-16 00:00:00,2026-02-20 00:00:00
+Full Access,False,,,8,Child,4,240,2026-01-09 00:00:00,2026-01-13 00:00:00
+1x per week,True,False,,8,Child,650,160,2024-08-31 22:00:00,
+1x per week,False,,,7,Child,65,160,2025-07-13 22:00:00,2025-09-16 22:00:00
+Full Access,True,True,56.0,11,Child,58,240,2026-04-15 22:00:00,
+1x per week,True,True,68.0,0,,471,160,2025-02-26 00:00:00,
+Full Access,False,,,4,Toddler,224,240,2024-08-14 22:00:00,2025-03-26 22:00:00
+Full Access,False,,,5,Toddler,454,240,2024-08-21 22:00:00,2025-11-18 00:00:00
+1x per week,True,True,38.0,5,Toddler,96,160,2026-03-08 00:00:00,
+1x per week,False,,,6,Child,533,160,2024-10-10 22:00:00,2026-03-27 22:00:00
+1x per week,True,False,,55,Adult,650,160,2024-08-31 22:00:00,
+1x per week,True,False,,12,Child,660,160,2024-08-21 22:00:00,
+Full Access,False,,,10,Child,28,240,2024-08-13 22:00:00,2024-09-10 22:00:00
+Full Access,False,,,0,,33,240,2024-12-05 00:00:00,2025-01-07 00:00:00
+Full Access,False,,,7,Child,421,240,2024-11-19 00:00:00,2026-01-14 00:00:00
+Full Access,True,False,,0,,559,240,2024-11-30 00:00:00,
+Full Access,False,,,0,,359,240,2025-02-01 00:00:00,2026-01-26 00:00:00
+Full Access,False,,,9,Child,95,240,2024-08-13 22:00:00,2024-11-16 00:00:00
+1x per week,True,False,,8,Child,234,160,2025-10-21 22:00:00,
+1x per week,True,False,,5,Toddler,302,160,2025-08-14 22:00:00,
+1x per week,False,,,4,Toddler,224,160,2024-08-14 22:00:00,2025-03-26 22:00:00
+Full Access,False,,,0,,360,240,2024-09-01 22:00:00,2025-08-27 22:00:00
+Full Access,False,,,0,,225,240,2025-08-25 22:00:00,2026-04-07 22:00:00
+1x per week,False,,,0,,38,160,2024-10-29 22:00:00,2024-12-06 00:00:00
+Full Access,False,,,49,Adult,190,240,2024-08-16 22:00:00,2025-02-22 00:00:00
+1x per week,True,False,,12,Child,452,160,2025-03-17 22:00:00,
+Full Access,False,,,8,Child,171,240,2024-09-03 22:00:00,2025-02-21 00:00:00
+Full Access,False,,,8,Child,223,240,2025-01-08 00:00:00,2025-08-19 22:00:00
+Full Access,True,False,,13,Child,650,240,2024-08-31 22:00:00,
+1x per week,True,False,,5,Toddler,122,160,2026-02-10 00:00:00,
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+Full Access,False,,,0,,360,240,2024-09-01 22:00:00,2025-08-27 22:00:00
+1x per week,True,False,,0,,633,160,2024-09-17 22:00:00,
+1x per week,True,False,,4,Toddler,312,160,2025-08-04 22:00:00,
+Full Access,True,False,,3,Toddler,467,240,2025-03-02 00:00:00,
+Full Access,False,,,25,Adult,65,240,2025-02-09 00:00:00,2025-04-15 22:00:00
+Full Access,False,,,9,Child,113,240,2024-08-16 22:00:00,2024-12-07 00:00:00
+1x per week,False,,,0,,86,160,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,True,False,,0,,103,240,2026-03-01 00:00:00,
+Full Access,True,False,,7,Child,141,240,2026-01-22 00:00:00,
+Full Access,True,False,,9,Child,18,240,2026-05-25 22:00:00,
+Full Access,True,False,,0,,605,240,2024-10-15 22:00:00,
+1x per week,False,,,0,,186,160,2024-08-20 22:00:00,2025-02-22 00:00:00
+1x per week,True,True,38.0,5,Toddler,96,160,2026-03-08 00:00:00,
+Full Access,True,False,,7,Child,284,240,2025-09-01 22:00:00,
+Full Access,False,,,18,Adult,296,240,2025-02-02 00:00:00,2025-11-25 00:00:00
+1x per week,False,,,0,,33,160,2024-12-05 00:00:00,2025-01-07 00:00:00
+1x per week,True,False,,5,Toddler,302,160,2025-08-14 22:00:00,
+Full Access,True,True,89.0,5,Toddler,151,240,2026-01-12 00:00:00,
+1x per week,True,False,,4,Toddler,64,160,2026-04-09 22:00:00,
+Full Access,True,False,,21,Adult,613,240,2024-10-07 22:00:00,
+Full Access,True,False,,51,Adult,23,240,2026-05-20 22:00:00,
+Full Access,True,False,,5,Toddler,302,240,2025-08-14 22:00:00,
+Full Access,False,,,36,Adult,96,240,2025-11-16 00:00:00,2026-02-20 00:00:00
+Full Access,False,,,3,Toddler,131,240,2025-11-14 00:00:00,2026-03-25 22:00:00
+Full Access,True,False,,6,Child,283,240,2025-09-02 22:00:00,
+Full Access,True,False,,8,Child,521,240,2025-01-07 00:00:00,
+1x per week,False,,,49,Adult,60,160,2024-08-23 22:00:00,2024-10-22 22:00:00
+Full Access,False,,,15,Adult,311,240,2024-09-01 22:00:00,2025-07-09 22:00:00
+1x per week,False,,,10,Child,470,160,2024-11-17 00:00:00,2026-03-02 00:00:00
+Full Access,True,False,,46,Adult,611,240,2024-10-09 22:00:00,
+1x per week,False,,,8,Child,86,160,2025-06-02 22:00:00,2025-08-27 22:00:00
+1x per week,True,False,,7,Child,239,160,2025-10-16 22:00:00,
+1x per week,False,,,7,Child,70,160,2024-08-13 22:00:00,2024-10-22 22:00:00
+Full Access,False,,,8,Child,551,240,2024-08-29 22:00:00,2026-03-03 00:00:00
+1x per week,False,,,7,Child,190,160,2024-11-24 00:00:00,2025-06-02 22:00:00
+Full Access,False,,,9,Child,530,240,2024-11-27 00:00:00,2026-05-11 22:00:00
+Full Access,False,,,8,Child,223,240,2025-01-08 00:00:00,2025-08-19 22:00:00
+1x per week,True,True,63.0,0,,242,160,2025-10-13 22:00:00,
+Full Access,False,,,7,Child,70,240,2024-08-13 22:00:00,2024-10-22 22:00:00
+1x per week,False,,,0,,360,160,2024-09-01 22:00:00,2025-08-27 22:00:00
+Full Access,False,,,6,Child,165,240,2025-01-06 00:00:00,2025-06-20 22:00:00
+Full Access,False,,,11,Child,144,240,2025-08-07 22:00:00,2025-12-29 00:00:00
+Full Access,False,,,9,Child,409,240,2024-12-10 00:00:00,2026-01-23 00:00:00
+1x per week,True,False,,48,Adult,674,160,2024-08-07 22:00:00,
+Full Access,True,False,,5,Toddler,302,240,2025-08-14 22:00:00,
+Full Access,True,False,,10,Child,514,240,2025-01-14 00:00:00,
+Full Access,True,False,,7,Child,53,240,2026-04-20 22:00:00,
+Full Access,True,False,,0,,605,240,2024-10-15 22:00:00,
+Full Access,False,,,44,Adult,213,240,2025-09-02 22:00:00,2026-04-03 22:00:00
+1x per week,False,,,15,Adult,403,160,2024-08-25 22:00:00,2025-10-02 22:00:00
+1x per week,True,False,,0,,667,160,2024-08-14 22:00:00,
+Full Access,True,False,,7,Child,180,240,2025-12-14 00:00:00,
+Full Access,False,,,37,Adult,64,240,2026-02-17 00:00:00,2026-04-22 22:00:00
+1x per week,True,False,,12,Child,143,160,2026-01-20 00:00:00,
+Full Access,False,,,11,Child,144,240,2025-08-07 22:00:00,2025-12-29 00:00:00
+Full Access,True,False,,7,Child,53,240,2026-04-20 22:00:00,
+1x per week,False,,,39,Adult,140,160,2025-09-12 22:00:00,2026-01-30 00:00:00
+Full Access,False,,,0,,360,240,2024-09-01 22:00:00,2025-08-27 22:00:00
+1x per week,True,False,,4,Toddler,217,160,2025-11-07 00:00:00,
+Full Access,False,,,10,Child,470,240,2024-11-17 00:00:00,2026-03-02 00:00:00
+1x per week,True,False,,21,Adult,613,160,2024-10-07 22:00:00,
+Full Access,True,False,,0,,667,240,2024-08-14 22:00:00,
+Full Access,True,False,,14,Adult,182,240,2025-12-12 00:00:00,
+Full Access,False,,,4,Toddler,178,240,2025-07-16 22:00:00,2026-01-10 00:00:00
+1x per week,True,False,,4,Toddler,64,160,2026-04-09 22:00:00,
+Full Access,False,,,49,Adult,190,240,2024-08-16 22:00:00,2025-02-22 00:00:00
+1x per week,False,,,15,Adult,301,160,2024-11-06 00:00:00,2025-09-03 22:00:00
+1x per week,False,,,4,Toddler,178,160,2025-07-16 22:00:00,2026-01-10 00:00:00
+Full Access,False,,,25,Adult,65,240,2025-02-09 00:00:00,2025-04-15 22:00:00
+Full Access,False,,,4,Toddler,178,240,2025-07-16 22:00:00,2026-01-10 00:00:00
+Full Access,True,False,,0,,559,240,2024-11-30 00:00:00,
+Full Access,True,False,,46,Adult,611,240,2024-10-09 22:00:00,
+1x per week,False,,,4,Toddler,178,160,2025-07-16 22:00:00,2026-01-10 00:00:00
+Full Access,True,False,,9,Child,521,240,2025-01-07 00:00:00,
+1x per week,False,,,0,,434,160,2024-08-29 22:00:00,2025-11-06 00:00:00
+Full Access,False,,,0,,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+1x per week,True,False,,8,Child,140,160,2026-01-23 00:00:00,
+Full Access,True,False,,5,Toddler,412,240,2025-04-26 22:00:00,
+1x per week,True,False,,7,Child,53,160,2026-04-20 22:00:00,
+1x per week,False,,,0,,83,160,2025-10-16 22:00:00,2026-01-07 00:00:00
+Full Access,False,,,0,,434,240,2024-08-29 22:00:00,2025-11-06 00:00:00
+Full Access,False,,,8,Child,4,240,2026-01-09 00:00:00,2026-01-13 00:00:00
+Full Access,False,,,0,,360,240,2024-09-01 22:00:00,2025-08-27 22:00:00
+Full Access,True,False,,7,Child,141,240,2026-01-22 00:00:00,
+Full Access,False,,,10,Child,470,240,2024-11-17 00:00:00,2026-03-02 00:00:00
+Full Access,False,,,37,Adult,64,240,2026-02-17 00:00:00,2026-04-22 22:00:00
+Full Access,False,,,9,Child,172,240,2025-10-23 22:00:00,2026-04-13 22:00:00
+1x per week,False,,,51,Adult,63,160,2024-08-20 22:00:00,2024-10-22 22:00:00
+Full Access,False,,,10,Child,470,240,2024-08-23 22:00:00,2025-12-06 00:00:00
+Full Access,True,False,,7,Child,246,240,2025-10-09 22:00:00,
+Full Access,True,False,,9,Child,18,240,2026-05-25 22:00:00,
+1x per week,False,,,0,,280,160,2025-01-23 00:00:00,2025-10-30 22:00:00
+Full Access,True,False,,8,Child,650,240,2024-08-31 22:00:00,
+1x per week,True,False,,7,Child,156,160,2026-01-07 00:00:00,
+Full Access,False,,,37,Adult,64,240,2026-02-17 00:00:00,2026-04-22 22:00:00
+1x per week,False,,,7,Child,421,160,2024-11-19 00:00:00,2026-01-14 00:00:00
+1x per week,True,False,,0,,205,160,2025-11-19 00:00:00,
+Full Access,True,False,,9,Child,309,240,2025-08-07 22:00:00,
+1x per week,False,,,0,,38,160,2024-10-29 22:00:00,2024-12-06 00:00:00
+1x per week,True,False,,47,Adult,650,160,2024-08-31 22:00:00,
+Full Access,True,False,,46,Adult,611,240,2024-10-09 22:00:00,
+Full Access,True,False,,7,Child,180,240,2025-12-14 00:00:00,
+1x per week,False,,,10,Child,453,160,2024-09-23 22:00:00,2025-12-20 00:00:00
+1x per week,True,True,56.0,11,Child,58,160,2026-04-15 22:00:00,
+Full Access,True,False,,0,,650,240,2024-08-31 22:00:00,
+Full Access,False,,,10,Child,453,240,2024-09-23 22:00:00,2025-12-20 00:00:00
+Full Access,False,,,6,Child,184,240,2024-12-01 00:00:00,2025-06-03 22:00:00
+1x per week,True,False,,48,Adult,674,160,2024-08-07 22:00:00,
+1x per week,False,,,7,Child,84,160,2025-10-31 22:00:00,2026-01-23 00:00:00
+1x per week,True,False,,12,Child,660,160,2024-08-21 22:00:00,
+1x per week,False,,,9,Child,165,160,2024-08-13 22:00:00,2025-01-25 00:00:00
+Full Access,False,,,0,,186,240,2024-08-20 22:00:00,2025-02-22 00:00:00
+1x per week,False,,,0,,116,160,2024-08-23 22:00:00,2024-12-17 00:00:00
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+Full Access,False,,,6,Child,268,240,2024-08-19 22:00:00,2025-05-14 22:00:00
+Full Access,True,True,56.0,11,Child,58,240,2026-04-15 22:00:00,
+1x per week,True,False,,0,,205,160,2025-11-19 00:00:00,
+Full Access,False,,,9,Child,65,240,2025-07-13 22:00:00,2025-09-16 22:00:00
+Full Access,False,,,0,,83,240,2025-12-16 00:00:00,2026-03-09 22:00:00
+Full Access,True,False,,9,Child,521,240,2025-01-07 00:00:00,
+1x per week,False,,,24,Adult,108,160,2025-04-15 22:00:00,2025-08-01 22:00:00
+1x per week,False,,,9,Child,70,160,2024-10-29 22:00:00,2025-01-07 00:00:00
+Full Access,False,,,40,Adult,36,240,2026-03-01 00:00:00,2026-04-06 22:00:00
+Full Access,False,,,10,Child,470,240,2024-11-17 00:00:00,2026-03-02 00:00:00
+1x per week,True,False,,55,Adult,650,160,2024-08-31 22:00:00,
+Full Access,True,False,,0,,667,240,2024-08-14 22:00:00,
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+Full Access,True,False,,0,,650,240,2024-08-31 22:00:00,
+1x per week,False,,,9,Child,552,160,2024-08-30 22:00:00,2026-03-05 00:00:00
+Full Access,False,,,9,Child,113,240,2024-08-16 22:00:00,2024-12-07 00:00:00
+1x per week,True,False,,4,Toddler,217,160,2025-11-07 00:00:00,
+Full Access,True,False,,8,Child,140,240,2026-01-23 00:00:00,
+Full Access,True,False,,6,Child,289,240,2025-08-27 22:00:00,
+1x per week,False,,,0,,340,160,2025-02-09 00:00:00,2026-01-15 00:00:00
+1x per week,False,,,15,Adult,403,160,2024-08-25 22:00:00,2025-10-02 22:00:00
+Full Access,False,,,6,Child,57,240,2024-08-26 22:00:00,2024-10-22 22:00:00
+Full Access,False,,,4,Toddler,178,240,2025-07-16 22:00:00,2026-01-10 00:00:00
+Full Access,True,False,,5,Toddler,60,240,2026-04-13 22:00:00,
+Full Access,False,,,24,Adult,108,240,2025-04-15 22:00:00,2025-08-01 22:00:00
+Full Access,True,False,,3,Toddler,467,240,2025-03-02 00:00:00,
+Full Access,False,,,9,Child,65,240,2025-07-13 22:00:00,2025-09-16 22:00:00
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+1x per week,True,False,,10,Child,653,160,2024-08-28 22:00:00,
+1x per week,False,,,9,Child,463,160,2024-08-25 22:00:00,2025-12-01 00:00:00
+Full Access,False,,,0,,359,240,2025-02-01 00:00:00,2026-01-26 00:00:00
+Full Access,False,,,9,Child,552,240,2024-08-30 22:00:00,2026-03-05 00:00:00
+1x per week,True,False,,10,Child,618,160,2024-10-02 22:00:00,
+Full Access,False,,,0,,340,240,2025-02-09 00:00:00,2026-01-15 00:00:00
+Full Access,False,,,0,,549,240,2024-11-20 00:00:00,2026-05-23 22:00:00
+Full Access,False,,,9,Child,95,240,2024-08-13 22:00:00,2024-11-16 00:00:00
+Full Access,True,False,,5,Toddler,241,240,2025-10-14 22:00:00,
+Full Access,False,,,0,,225,240,2025-08-25 22:00:00,2026-04-07 22:00:00
+Full Access,False,,,12,Child,429,240,2024-08-21 22:00:00,2025-10-24 22:00:00
+Full Access,True,False,,48,Adult,674,240,2024-08-07 22:00:00,
+Full Access,True,False,,12,Child,452,240,2025-03-17 22:00:00,
+Full Access,False,,,38,Adult,287,240,2024-11-13 00:00:00,2025-08-27 22:00:00
+Full Access,False,,,38,Adult,330,240,2024-11-13 00:00:00,2025-10-09 22:00:00
+1x per week,True,False,,54,Adult,519,160,2025-01-09 00:00:00,
+1x per week,False,,,38,Adult,526,160,2024-11-13 00:00:00,2026-04-23 22:00:00
+Full Access,True,False,,6,Child,17,240,2026-05-26 22:00:00,
+Full Access,True,False,,0,,368,240,2025-06-09 22:00:00,
+1x per week,True,False,,0,,71,160,2026-04-02 22:00:00,
+1x per week,True,False,,10,Child,652,160,2024-08-29 22:00:00,
+Full Access,True,False,,0,,605,240,2024-10-15 22:00:00,
+1x per week,False,,,10,Child,345,160,2024-08-21 22:00:00,2025-08-01 22:00:00
+Full Access,True,False,,8,Child,235,240,2025-10-20 22:00:00,
+1x per week,True,False,,5,Toddler,241,160,2025-10-14 22:00:00,
+1x per week,False,,,9,Child,409,160,2024-12-10 00:00:00,2026-01-23 00:00:00
+Full Access,True,False,,9,Child,309,240,2025-08-07 22:00:00,
+1x per week,False,,,7,Child,70,160,2024-08-13 22:00:00,2024-10-22 22:00:00
+1x per week,True,False,,0,,650,160,2024-08-31 22:00:00,
+1x per week,False,,,21,Adult,204,160,2025-06-30 22:00:00,2026-01-20 00:00:00
+1x per week,True,False,,4,Toddler,312,160,2025-08-04 22:00:00,
+1x per week,False,,,9,Child,64,160,2024-08-30 22:00:00,2024-11-02 22:00:00
+1x per week,False,,,0,,444,160,2024-08-31 22:00:00,2025-11-18 00:00:00
+1x per week,True,False,,33,Adult,571,160,2024-11-18 00:00:00,
+1x per week,False,,,0,,360,160,2024-09-01 22:00:00,2025-08-27 22:00:00
+Full Access,False,,,0,,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+Full Access,False,,,38,Adult,526,240,2024-11-13 00:00:00,2026-04-23 22:00:00
+Full Access,True,False,,6,Child,291,240,2025-08-25 22:00:00,
+1x per week,True,True,76.0,51,Adult,512,160,2025-01-16 00:00:00,
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+Full Access,True,False,,0,,667,240,2024-08-14 22:00:00,
+Full Access,False,,,40,Adult,36,240,2026-03-01 00:00:00,2026-04-06 22:00:00
+1x per week,True,False,,8,Child,650,160,2024-08-31 22:00:00,
+1x per week,False,,,0,,231,160,2025-04-03 22:00:00,2025-11-20 00:00:00
+1x per week,True,False,,5,Toddler,615,160,2024-10-05 22:00:00,
+1x per week,False,,,10,Child,484,160,2025-01-23 00:00:00,2026-05-22 22:00:00
+Full Access,True,True,68.0,0,,471,240,2025-02-26 00:00:00,
+Full Access,False,,,15,Adult,403,240,2024-08-25 22:00:00,2025-10-02 22:00:00
+1x per week,True,False,,6,Child,331,160,2025-07-16 22:00:00,
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,False,,,0,,340,240,2025-02-09 00:00:00,2026-01-15 00:00:00
+1x per week,False,,,9,Child,555,160,2024-11-14 00:00:00,2026-05-23 22:00:00
+Full Access,True,False,,48,Adult,674,240,2024-08-07 22:00:00,
+1x per week,True,False,,0,,253,160,2025-10-02 22:00:00,
+Full Access,True,True,13.0,68,Adult,17,240,2026-05-26 22:00:00,
+1x per week,False,,,8,Child,88,160,2024-09-09 22:00:00,2024-12-06 00:00:00
+Full Access,True,False,,8,Child,140,240,2026-01-23 00:00:00,
+Full Access,False,,,0,,254,240,2025-09-11 22:00:00,2026-05-23 22:00:00
+Full Access,True,False,,35,Adult,649,240,2024-09-01 22:00:00,
+Full Access,True,False,,8,Child,650,240,2024-08-31 22:00:00,
+Full Access,True,False,,47,Adult,680,240,2024-08-01 22:00:00,
+Full Access,False,,,8,Child,84,240,2025-10-31 22:00:00,2026-01-23 00:00:00
+Full Access,False,,,0,,186,240,2024-08-20 22:00:00,2025-02-22 00:00:00
+1x per week,True,False,,21,Adult,261,160,2025-09-24 22:00:00,
+Full Access,True,False,,7,Child,103,240,2026-03-01 00:00:00,
+Full Access,False,,,44,Adult,179,240,2025-08-30 22:00:00,2026-02-25 00:00:00
+Full Access,True,False,,5,Toddler,60,240,2026-04-13 22:00:00,
+Full Access,False,,,6,Child,539,240,2024-08-12 22:00:00,2026-02-02 00:00:00
+Full Access,True,False,,9,Child,216,240,2025-11-08 00:00:00,
+Full Access,False,,,38,Adult,287,240,2024-11-13 00:00:00,2025-08-27 22:00:00
+1x per week,False,,,7,Child,84,160,2025-10-31 22:00:00,2026-01-23 00:00:00
+1x per week,False,,,7,Child,190,160,2024-11-24 00:00:00,2025-06-02 22:00:00
+Full Access,False,,,9,Child,172,240,2025-10-23 22:00:00,2026-04-13 22:00:00
+Full Access,True,False,,55,Adult,665,240,2024-08-16 22:00:00,
+1x per week,False,,,15,Adult,311,160,2024-09-01 22:00:00,2025-07-09 22:00:00
+Full Access,False,,,49,Adult,60,240,2024-08-23 22:00:00,2024-10-22 22:00:00
+Full Access,True,False,,7,Child,661,240,2024-08-20 22:00:00,
+1x per week,False,,,0,,83,160,2025-10-16 22:00:00,2026-01-07 00:00:00
+Full Access,True,False,,10,Child,652,240,2024-08-29 22:00:00,
+Full Access,False,,,0,,54,240,2025-03-05 00:00:00,2025-04-28 22:00:00
+1x per week,False,,,3,Toddler,131,160,2025-11-14 00:00:00,2026-03-25 22:00:00
+Full Access,True,False,,5,Toddler,283,240,2025-09-02 22:00:00,
+Full Access,False,,,8,Child,84,240,2025-10-31 22:00:00,2026-01-23 00:00:00
+Full Access,True,False,,5,Toddler,180,240,2025-12-14 00:00:00,
+1x per week,True,False,,0,,71,160,2026-04-02 22:00:00,
+Full Access,True,False,,10,Child,653,240,2024-08-28 22:00:00,
+Full Access,False,,,45,Adult,204,240,2025-09-15 22:00:00,2026-04-07 22:00:00
+Full Access,False,,,0,,33,240,2024-12-05 00:00:00,2025-01-07 00:00:00
+Full Access,True,False,,10,Child,514,240,2025-01-14 00:00:00,
+Full Access,True,True,69.0,8,Child,325,240,2025-07-22 22:00:00,
+Full Access,True,False,,4,Toddler,64,240,2026-04-09 22:00:00,
+1x per week,False,,,0,,254,160,2025-09-11 22:00:00,2026-05-23 22:00:00
+Full Access,True,False,,14,Adult,182,240,2025-12-12 00:00:00,
+1x per week,False,,,7,Child,190,160,2024-11-24 00:00:00,2025-06-02 22:00:00
+Full Access,True,True,39.0,14,Adult,54,240,2026-04-19 22:00:00,
+Full Access,True,False,,8,Child,140,240,2026-01-23 00:00:00,
+1x per week,False,,,25,Adult,65,160,2025-02-09 00:00:00,2025-04-15 22:00:00
+Full Access,True,False,,10,Child,652,240,2024-08-29 22:00:00,
+1x per week,False,,,8,Child,4,160,2026-01-09 00:00:00,2026-01-13 00:00:00
+Full Access,False,,,0,,83,240,2025-12-16 00:00:00,2026-03-09 22:00:00
+1x per week,False,,,6,Child,165,160,2025-01-06 00:00:00,2025-06-20 22:00:00
+Full Access,True,False,,0,,103,240,2026-03-01 00:00:00,
+1x per week,False,,,36,Adult,254,160,2024-11-20 00:00:00,2025-08-01 22:00:00
+Full Access,False,,,11,Child,453,240,2024-09-23 22:00:00,2025-12-20 00:00:00
+Full Access,True,False,,5,Toddler,284,240,2025-09-01 22:00:00,
+Full Access,True,False,,40,Adult,649,240,2024-09-01 22:00:00,
+Full Access,True,False,,0,,205,240,2025-11-19 00:00:00,
+Full Access,True,False,,46,Adult,611,240,2024-10-09 22:00:00,
+Full Access,True,False,,47,Adult,650,240,2024-08-31 22:00:00,
+1x per week,False,,,10,Child,117,160,2024-08-27 22:00:00,2024-12-22 00:00:00
+Full Access,False,,,38,Adult,526,240,2024-11-13 00:00:00,2026-04-23 22:00:00
+1x per week,True,False,,0,,650,160,2024-08-31 22:00:00,
+Full Access,True,False,,35,Adult,572,240,2024-11-17 00:00:00,
+1x per week,True,False,,6,Child,289,160,2025-08-27 22:00:00,
+Full Access,True,False,,0,,650,240,2024-08-31 22:00:00,
+Full Access,True,False,,5,Toddler,283,240,2025-09-02 22:00:00,
+Full Access,False,,,0,,254,240,2025-09-11 22:00:00,2026-05-23 22:00:00
+Full Access,False,,,9,Child,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+Full Access,False,,,23,Adult,58,240,2025-01-14 00:00:00,2025-03-13 22:00:00
+Full Access,False,,,6,Child,257,240,2025-08-30 22:00:00,2026-05-14 22:00:00
+Full Access,True,False,,21,Adult,261,240,2025-09-24 22:00:00,
+Full Access,True,False,,12,Child,660,240,2024-08-21 22:00:00,
+Full Access,False,,,0,,254,240,2025-09-11 22:00:00,2026-05-23 22:00:00
+1x per week,False,,,0,,60,160,2024-08-23 22:00:00,2024-10-22 22:00:00
+1x per week,False,,,8,Child,201,160,2025-10-06 22:00:00,2026-04-25 22:00:00
+1x per week,False,,,5,Toddler,131,160,2025-11-14 00:00:00,2026-03-25 22:00:00
+Full Access,False,,,1,Toddler,62,240,2024-08-21 22:00:00,2024-10-22 22:00:00
+Full Access,True,False,,21,Adult,613,240,2024-10-07 22:00:00,
+Full Access,False,,,0,,83,240,2025-10-16 22:00:00,2026-01-07 00:00:00
+Full Access,True,False,,11,Child,298,240,2025-08-18 22:00:00,
+1x per week,False,,,8,Child,171,160,2024-09-03 22:00:00,2025-02-21 00:00:00
+Full Access,True,False,,0,,249,240,2025-10-06 22:00:00,
+Full Access,False,,,36,Adult,96,240,2025-11-16 00:00:00,2026-02-20 00:00:00
+1x per week,False,,,0,,190,160,2024-08-16 22:00:00,2025-02-22 00:00:00
+Full Access,True,True,34.0,48,Adult,674,240,2024-08-07 22:00:00,
+1x per week,False,,,9,Child,64,160,2024-08-30 22:00:00,2024-11-02 22:00:00
+1x per week,False,,,42,Adult,96,160,2025-05-21 22:00:00,2025-08-25 22:00:00
+1x per week,False,,,6,Child,244,160,2025-04-03 22:00:00,2025-12-03 00:00:00
+Full Access,False,,,9,Child,172,240,2025-10-23 22:00:00,2026-04-13 22:00:00
+Full Access,True,False,,0,,598,240,2024-10-22 22:00:00,
+Full Access,False,,,11,Child,551,240,2024-08-29 22:00:00,2026-03-03 00:00:00
+Full Access,True,False,,0,,205,240,2025-11-19 00:00:00,
+Full Access,True,False,,7,Child,239,240,2025-10-16 22:00:00,
+Full Access,True,False,,7,Child,667,240,2024-08-14 22:00:00,
+Full Access,False,,,10,Child,136,240,2024-08-12 22:00:00,2024-12-26 00:00:00
+Full Access,False,,,0,,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+Full Access,False,,,42,Adult,96,240,2025-05-21 22:00:00,2025-08-25 22:00:00
+Full Access,True,False,,40,Adult,649,240,2024-09-01 22:00:00,
+Full Access,True,False,,12,Child,618,240,2024-10-02 22:00:00,
+Full Access,True,False,,54,Adult,519,240,2025-01-09 00:00:00,
+1x per week,True,False,,8,Child,277,160,2025-09-08 22:00:00,
+Full Access,True,False,,7,Child,141,240,2026-01-22 00:00:00,
+Full Access,False,,,7,Child,84,240,2025-10-31 22:00:00,2026-01-23 00:00:00
+1x per week,True,True,12.0,4,Toddler,289,160,2025-08-27 22:00:00,
+Full Access,False,,,9,Child,95,240,2024-08-13 22:00:00,2024-11-16 00:00:00
+Full Access,False,,,24,Adult,108,240,2025-04-15 22:00:00,2025-08-01 22:00:00
+1x per week,True,False,,51,Adult,23,160,2026-05-20 22:00:00,
+Full Access,False,,,0,,55,240,2024-12-22 00:00:00,2025-02-15 00:00:00
+Full Access,True,False,,6,Child,77,240,2026-03-27 22:00:00,
+1x per week,True,False,,0,,646,160,2024-09-04 22:00:00,
+Full Access,True,False,,9,Child,216,240,2025-11-08 00:00:00,
+Full Access,True,True,12.0,4,Toddler,289,240,2025-08-27 22:00:00,
+1x per week,False,,,1,Toddler,62,160,2024-08-21 22:00:00,2024-10-22 22:00:00
+Full Access,True,False,,14,Adult,182,240,2025-12-12 00:00:00,
+Full Access,False,,,8,Child,88,240,2024-09-09 22:00:00,2024-12-06 00:00:00
+1x per week,True,False,,6,Child,77,160,2026-03-27 22:00:00,
+Full Access,True,False,,0,,650,240,2024-08-31 22:00:00,
+Full Access,True,False,,21,Adult,613,240,2024-10-07 22:00:00,
+1x per week,False,,,0,,86,160,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,False,,,21,Adult,204,240,2025-06-30 22:00:00,2026-01-20 00:00:00
+1x per week,True,False,,7,Child,151,160,2026-01-12 00:00:00,
+Full Access,True,False,,8,Child,650,240,2024-08-31 22:00:00,
+Full Access,False,,,9,Child,172,240,2025-10-23 22:00:00,2026-04-13 22:00:00
+Full Access,True,False,,4,Toddler,274,240,2025-09-11 22:00:00,
+1x per week,False,,,10,Child,470,160,2024-11-17 00:00:00,2026-03-02 00:00:00
+Full Access,True,False,,4,Toddler,217,240,2025-11-07 00:00:00,
+1x per week,True,False,,42,Adult,377,160,2025-05-31 22:00:00,
+1x per week,False,,,0,,359,160,2025-02-01 00:00:00,2026-01-26 00:00:00
+1x per week,True,False,,12,Child,452,160,2025-03-17 22:00:00,
+Full Access,False,,,18,Adult,296,240,2025-02-02 00:00:00,2025-11-25 00:00:00
+1x per week,False,,,25,Adult,65,160,2025-02-09 00:00:00,2025-04-15 22:00:00
+Full Access,False,,,49,Adult,190,240,2024-08-16 22:00:00,2025-02-22 00:00:00
+Full Access,False,,,6,Child,533,240,2024-10-10 22:00:00,2026-03-27 22:00:00
+1x per week,False,,,36,Adult,131,160,2025-11-14 00:00:00,2026-03-25 22:00:00
+1x per week,False,,,15,Adult,185,160,2024-11-22 00:00:00,2025-05-26 22:00:00
+1x per week,False,,,11,Child,144,160,2025-08-07 22:00:00,2025-12-29 00:00:00
+Full Access,False,,,10,Child,136,240,2024-08-12 22:00:00,2024-12-26 00:00:00
+Full Access,True,False,,17,Adult,320,240,2025-07-27 22:00:00,
+1x per week,True,False,,5,Toddler,615,160,2024-10-05 22:00:00,
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+1x per week,False,,,0,,165,160,2025-01-06 00:00:00,2025-06-20 22:00:00
+Full Access,True,False,,4,Toddler,312,240,2025-08-04 22:00:00,
+Full Access,True,False,,5,Toddler,180,240,2025-12-14 00:00:00,
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,True,False,,10,Child,652,240,2024-08-29 22:00:00,
+Full Access,False,,,12,Child,382,240,2024-10-15 22:00:00,2025-11-01 22:00:00
+1x per week,False,,,0,,86,160,2025-10-13 22:00:00,2026-01-07 00:00:00
+1x per week,True,False,,0,,506,160,2025-01-22 00:00:00,
+1x per week,False,,,0,,105,160,2024-08-19 22:00:00,2024-12-02 00:00:00
+Full Access,False,,,11,Child,453,240,2024-09-23 22:00:00,2025-12-20 00:00:00
+Full Access,True,False,,47,Adult,680,240,2024-08-01 22:00:00,
+Full Access,False,,,6,Child,57,240,2024-08-26 22:00:00,2024-10-22 22:00:00
+Full Access,False,,,7,Child,65,240,2025-07-13 22:00:00,2025-09-16 22:00:00
+1x per week,True,False,,5,Toddler,241,160,2025-10-14 22:00:00,
+Full Access,False,,,56,Adult,102,240,2025-01-16 00:00:00,2025-04-28 22:00:00
+1x per week,False,,,7,Child,208,160,2025-09-13 22:00:00,2026-04-09 22:00:00
+1x per week,False,,,9,Child,64,160,2024-08-30 22:00:00,2024-11-02 22:00:00
+Full Access,True,False,,3,Toddler,467,240,2025-03-02 00:00:00,
+Full Access,False,,,4,Toddler,208,240,2025-09-13 22:00:00,2026-04-09 22:00:00
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+1x per week,False,,,49,Adult,60,160,2024-08-23 22:00:00,2024-10-22 22:00:00
+Full Access,True,False,,21,Adult,613,240,2024-10-07 22:00:00,
+1x per week,True,False,,4,Toddler,217,160,2025-11-07 00:00:00,
+Full Access,False,,,0,,186,240,2024-08-20 22:00:00,2025-02-22 00:00:00
+Full Access,True,False,,10,Child,514,240,2025-01-14 00:00:00,
+1x per week,True,False,,5,Toddler,412,160,2025-04-26 22:00:00,
+1x per week,False,,,40,Adult,36,160,2026-03-01 00:00:00,2026-04-06 22:00:00
+1x per week,False,,,49,Adult,190,160,2024-08-16 22:00:00,2025-02-22 00:00:00
+Full Access,True,False,,0,,156,240,2026-01-07 00:00:00,
+Full Access,False,,,15,Adult,311,240,2024-09-01 22:00:00,2025-07-09 22:00:00
+Full Access,False,,,6,Child,257,240,2025-08-30 22:00:00,2026-05-14 22:00:00
+Full Access,False,,,7,Child,65,240,2025-07-13 22:00:00,2025-09-16 22:00:00
+Full Access,False,,,9,Child,409,240,2024-12-10 00:00:00,2026-01-23 00:00:00
+1x per week,False,,,44,Adult,179,160,2025-08-30 22:00:00,2026-02-25 00:00:00
+Full Access,False,,,8,Child,223,240,2025-01-08 00:00:00,2025-08-19 22:00:00
+1x per week,False,,,28,Adult,56,160,2024-10-10 22:00:00,2024-12-05 00:00:00
+Full Access,False,,,7,Child,65,240,2025-07-13 22:00:00,2025-09-16 22:00:00
+Full Access,True,False,,46,Adult,611,240,2024-10-09 22:00:00,
+Full Access,False,,,8,Child,182,240,2024-08-31 22:00:00,2025-03-01 00:00:00
+Full Access,False,,,4,Toddler,208,240,2025-09-13 22:00:00,2026-04-09 22:00:00
+1x per week,True,True,12.0,4,Toddler,289,160,2025-08-27 22:00:00,
+Full Access,True,False,,0,,667,240,2024-08-14 22:00:00,
+Full Access,True,False,,0,,598,240,2024-10-22 22:00:00,
+Full Access,False,,,10,Child,161,240,2025-09-10 22:00:00,2026-02-18 00:00:00
+1x per week,False,,,7,Child,70,160,2024-08-13 22:00:00,2024-10-22 22:00:00
+1x per week,True,False,,44,Adult,650,160,2024-08-31 22:00:00,
+1x per week,False,,,8,Child,88,160,2024-09-09 22:00:00,2024-12-06 00:00:00
+1x per week,True,False,,4,Toddler,64,160,2026-04-09 22:00:00,
+Full Access,True,False,,0,,205,240,2025-11-19 00:00:00,
+Full Access,False,,,42,Adult,96,240,2025-05-21 22:00:00,2025-08-25 22:00:00
+Full Access,False,,,10,Child,484,240,2025-01-23 00:00:00,2026-05-22 22:00:00
+Full Access,True,False,,9,Child,241,240,2025-10-14 22:00:00,
+Full Access,False,,,8,Child,4,240,2026-01-09 00:00:00,2026-01-13 00:00:00
+1x per week,False,,,0,,186,160,2024-08-20 22:00:00,2025-02-22 00:00:00
+Full Access,True,False,,0,,205,240,2025-11-19 00:00:00,
+1x per week,True,False,,26,Adult,378,160,2025-05-30 22:00:00,
+1x per week,False,,,7,Child,84,160,2025-10-31 22:00:00,2026-01-23 00:00:00
+Full Access,True,False,,3,Toddler,63,240,2026-04-10 22:00:00,
+Full Access,False,,,0,,231,240,2025-04-03 22:00:00,2025-11-20 00:00:00
+1x per week,True,False,,7,Child,284,160,2025-09-01 22:00:00,
+Full Access,False,,,45,Adult,204,240,2025-09-15 22:00:00,2026-04-07 22:00:00
+Full Access,False,,,8,Child,88,240,2024-09-09 22:00:00,2024-12-06 00:00:00
+Full Access,False,,,0,,60,240,2024-08-23 22:00:00,2024-10-22 22:00:00
+Full Access,True,True,30.0,5,Toddler,273,240,2025-09-12 22:00:00,
+Full Access,False,,,0,,359,240,2025-02-01 00:00:00,2026-01-26 00:00:00
+1x per week,True,False,,5,Toddler,180,160,2025-12-14 00:00:00,
+Full Access,False,,,12,Child,311,240,2024-09-01 22:00:00,2025-07-09 22:00:00
+Full Access,False,,,0,,49,240,2024-09-03 22:00:00,2024-10-22 22:00:00
+Full Access,False,,,5,Toddler,157,240,2025-11-11 00:00:00,2026-04-17 22:00:00
+Full Access,False,,,5,Toddler,131,240,2025-11-14 00:00:00,2026-03-25 22:00:00
+Full Access,True,False,,0,,598,240,2024-10-22 22:00:00,
+Full Access,True,False,,55,Adult,650,240,2024-08-31 22:00:00,
+Full Access,True,False,,0,,242,240,2025-10-13 22:00:00,
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,True,False,,0,,368,240,2025-06-09 22:00:00,
+Full Access,True,True,47.0,37,Adult,521,240,2025-01-07 00:00:00,
+Full Access,True,False,,35,Adult,649,240,2024-09-01 22:00:00,
+Full Access,True,False,,37,Adult,312,240,2025-08-04 22:00:00,
+1x per week,False,,,36,Adult,131,160,2025-11-14 00:00:00,2026-03-25 22:00:00
+Full Access,False,,,7,Child,190,240,2024-11-24 00:00:00,2025-06-02 22:00:00
+Full Access,True,False,,0,,605,240,2024-10-15 22:00:00,
+1x per week,False,,,0,,60,160,2024-08-23 22:00:00,2024-10-22 22:00:00
+1x per week,False,,,9,Child,463,160,2024-08-25 22:00:00,2025-12-01 00:00:00
+Full Access,True,False,,0,,103,240,2026-03-01 00:00:00,
+1x per week,True,False,,8,Child,521,160,2025-01-07 00:00:00,
+1x per week,False,,,11,Child,144,160,2025-08-07 22:00:00,2025-12-29 00:00:00
+1x per week,False,,,10,Child,28,160,2024-08-13 22:00:00,2024-09-10 22:00:00
+1x per week,True,False,,35,Adult,572,160,2024-11-17 00:00:00,
+1x per week,False,,,7,Child,65,160,2025-07-13 22:00:00,2025-09-16 22:00:00
+Full Access,False,,,8,Child,158,240,2025-09-02 22:00:00,2026-02-07 00:00:00
+1x per week,False,,,10,Child,445,160,2024-12-21 00:00:00,2026-03-11 22:00:00
+Full Access,True,True,89.0,7,Child,374,240,2025-06-03 22:00:00,
+Full Access,True,True,56.0,11,Child,58,240,2026-04-15 22:00:00,
+Full Access,True,False,,0,,650,240,2024-08-31 22:00:00,
+1x per week,False,,,12,Child,311,160,2024-09-01 22:00:00,2025-07-09 22:00:00
+Full Access,True,False,,6,Child,403,240,2025-05-05 22:00:00,
+1x per week,True,False,,6,Child,247,160,2025-10-08 22:00:00,
+Full Access,True,False,,11,Child,652,240,2024-08-29 22:00:00,
+Full Access,False,,,8,Child,182,240,2024-08-31 22:00:00,2025-03-01 00:00:00
+Full Access,False,,,7,Child,84,240,2025-10-31 22:00:00,2026-01-23 00:00:00
+Full Access,False,,,0,,83,240,2025-10-16 22:00:00,2026-01-07 00:00:00
+1x per week,True,False,,7,Child,661,160,2024-08-20 22:00:00,
+Full Access,True,False,,37,Adult,312,240,2025-08-04 22:00:00,
+Full Access,False,,,0,,165,240,2025-01-06 00:00:00,2025-06-20 22:00:00
+Full Access,False,,,0,,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+Full Access,False,,,0,,83,240,2025-10-16 22:00:00,2026-01-07 00:00:00
+1x per week,False,,,0,,254,160,2025-09-11 22:00:00,2026-05-23 22:00:00
+1x per week,False,,,10,Child,453,160,2024-09-23 22:00:00,2025-12-20 00:00:00
+Full Access,False,,,8,Child,201,240,2025-10-06 22:00:00,2026-04-25 22:00:00
+1x per week,True,False,,10,Child,514,160,2025-01-14 00:00:00,
+1x per week,True,False,,6,Child,331,160,2025-07-16 22:00:00,
+Full Access,False,,,23,Adult,58,240,2025-01-14 00:00:00,2025-03-13 22:00:00
+Full Access,True,True,63.0,0,,242,240,2025-10-13 22:00:00,
+Full Access,False,,,0,,254,240,2025-09-11 22:00:00,2026-05-23 22:00:00
+Full Access,False,,,11,Child,144,240,2025-08-07 22:00:00,2025-12-29 00:00:00
+Full Access,True,False,,7,Child,661,240,2024-08-20 22:00:00,
+1x per week,False,,,10,Child,470,160,2024-11-17 00:00:00,2026-03-02 00:00:00
+Full Access,True,False,,7,Child,661,240,2024-08-20 22:00:00,
+Full Access,False,,,41,Adult,439,240,2024-09-12 22:00:00,2025-11-25 00:00:00
+1x per week,False,,,0,,470,160,2024-11-17 00:00:00,2026-03-02 00:00:00
+Full Access,True,False,,0,,483,240,2025-02-14 00:00:00,
+Full Access,False,,,51,Adult,63,240,2024-08-20 22:00:00,2024-10-22 22:00:00
+Full Access,True,True,56.0,11,Child,58,240,2026-04-15 22:00:00,
+1x per week,False,,,9,Child,198,160,2025-09-02 22:00:00,2026-03-19 22:00:00
+1x per week,False,,,7,Child,208,160,2025-09-13 22:00:00,2026-04-09 22:00:00
+Full Access,True,False,,3,Toddler,467,240,2025-03-02 00:00:00,
+1x per week,True,False,,0,,650,160,2024-08-31 22:00:00,
+1x per week,False,,,0,,83,160,2025-10-16 22:00:00,2026-01-07 00:00:00
+1x per week,True,False,,40,Adult,649,160,2024-09-01 22:00:00,
+Full Access,True,False,,0,,667,240,2024-08-14 22:00:00,
+Full Access,False,,,12,Child,426,240,2024-09-12 22:00:00,2025-11-12 00:00:00
+Full Access,False,,,3,Toddler,131,240,2025-11-14 00:00:00,2026-03-25 22:00:00
+1x per week,False,,,8,Child,201,160,2025-10-06 22:00:00,2026-04-25 22:00:00
+1x per week,True,False,,8,Child,140,160,2026-01-23 00:00:00,
+Full Access,True,False,,7,Child,180,240,2025-12-14 00:00:00,
+Full Access,True,False,,0,,205,240,2025-11-19 00:00:00,
+Full Access,True,False,,17,Adult,320,240,2025-07-27 22:00:00,
+Full Access,True,False,,5,Toddler,412,240,2025-04-26 22:00:00,
+Full Access,False,,,0,,190,240,2024-08-16 22:00:00,2025-02-22 00:00:00
+1x per week,True,False,,9,Child,445,160,2025-03-24 22:00:00,
+Full Access,False,,,0,,50,240,2025-07-13 22:00:00,2025-09-01 22:00:00
+Full Access,False,,,0,,60,240,2024-08-23 22:00:00,2024-10-22 22:00:00
+1x per week,False,,,7,Child,208,160,2025-09-13 22:00:00,2026-04-09 22:00:00
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+Full Access,False,,,10,Child,28,240,2024-08-13 22:00:00,2024-09-10 22:00:00
+Full Access,False,,,45,Adult,204,240,2025-09-15 22:00:00,2026-04-07 22:00:00
+Full Access,True,False,,42,Adult,377,240,2025-05-31 22:00:00,
+Full Access,False,,,0,,360,240,2024-09-01 22:00:00,2025-08-27 22:00:00
+Full Access,False,,,0,,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+Full Access,False,,,4,Toddler,224,240,2024-08-14 22:00:00,2025-03-26 22:00:00
+Full Access,False,,,0,,86,240,2025-10-13 22:00:00,2026-01-07 00:00:00
+1x per week,False,,,9,Child,64,160,2024-08-30 22:00:00,2024-11-02 22:00:00
+Full Access,True,False,,35,Adult,572,240,2024-11-17 00:00:00,
+Full Access,False,,,0,,38,240,2024-10-29 22:00:00,2024-12-06 00:00:00
+1x per week,True,True,63.0,49,Adult,652,160,2024-08-29 22:00:00,
+Full Access,False,,,0,,198,240,2025-09-02 22:00:00,2026-03-19 22:00:00
+Full Access,False,,,7,Child,421,240,2024-11-19 00:00:00,2026-01-14 00:00:00
+Full Access,True,False,,6,Child,291,240,2025-08-25 22:00:00,
+1x per week,True,False,,4,Toddler,312,160,2025-08-04 22:00:00,
+1x per week,False,,,0,,86,160,2025-10-13 22:00:00,2026-01-07 00:00:00
+1x per week,True,False,,7,Child,667,160,2024-08-14 22:00:00,
+1x per week,False,,,9,Child,555,160,2024-11-14 00:00:00,2026-05-23 22:00:00
+Full Access,True,False,,4,Toddler,127,240,2026-02-05 00:00:00,
+Full Access,True,False,,0,,646,240,2024-09-04 22:00:00,
+1x per week,False,,,9,Child,409,160,2024-12-10 00:00:00,2026-01-23 00:00:00
+Full Access,False,,,0,,165,240,2025-01-06 00:00:00,2025-06-20 22:00:00
+1x per week,True,False,,9,Child,206,160,2025-11-18 00:00:00,
+1x per week,True,False,,0,,103,160,2026-03-01 00:00:00,
+Full Access,True,False,,6,Child,140,240,2026-01-23 00:00:00,
+Full Access,False,,,9,Child,95,240,2024-08-13 22:00:00,2024-11-16 00:00:00
+Full Access,False,,,6,Child,533,240,2024-10-10 22:00:00,2026-03-27 22:00:00
+Full Access,False,,,5,Toddler,157,240,2025-11-11 00:00:00,2026-04-17 22:00:00
